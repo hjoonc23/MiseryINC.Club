@@ -1,0 +1,15 @@
+GOOGLE FORM TEMPLATE | MISERY INC. — JOIN THE CLUB
+
+Title: JOIN THE CLUB | MISERY INC.
+Description:
+Join the Misery Incorporated email list for occasional media updates, new content, and announcements about potential future apparel or other products. Membership is free and optional. This is not a purchase, preorder, reservation, or guarantee that any product will launch. You can unsubscribe at any time. Please read our Privacy Policy: https://miseryinc.club/privacy.html. Intended for people age 18 or older.
+
+Required question #1: Email address [short answer with email validation]
+Optional question #2: First name [short answer]
+Required question #3: Permission [checkbox, REQUIRED, no default selection]
+[ ] Yes. I agree to receive occasional promotional and informational emails from Misery Incorporated about media, announcements, and possible future products. I understand I can unsubscribe at any time.
+
+Confirmation message:
+Your application to Misery has been received. Membership is free, enthusiasm is optional. Check your inbox for future communications, if any.
+
+Important settings: Do NOT require sign-in if unnecessary; test external access; avoid automated collection of Google account details without disclosure; set up an unsubscribe method before any email campaign; update the privacy policy to identify the actual operator and contact.
