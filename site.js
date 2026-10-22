@@ -1,5 +1,5 @@
 // Configure these before activating the waitlist. Use a public RESPONDENT URL.
-const GOOGLE_FORM_URL = "";
+const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSefib8goz5x8mFzyeBIvuMsipfwjYbCkDWxZTT4E0kKdHLqhA/viewform";
 const CONTACT_EMAIL = "";
 const key = "miseryinc_cookie_choice_v1";
 document.addEventListener("DOMContentLoaded",()=>{
